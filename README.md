@@ -10,3 +10,6 @@ What we try?
 3. Split 10% Validation dataset from Train dataset
 4. Reduce image size to 256x256
 5. Learning rate scheduler
+
+Result：
+![13 epoch vs 25 epoch](https://github.com/moriwang/Kaggle-HPA/blob/master/result.png)
